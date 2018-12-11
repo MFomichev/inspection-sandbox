@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="org.jetbrains.inspections.main" target="1.8" />
+      <module name="org.jetbrains.inspections.test" target="1.8" />
+      <module name="xyz.fomichev.inspection-.main" target="1.8" />
+      <module name="xyz.fomichev.inspection-.test" target="1.8" />
+      <module name="xyz.fomichev.inspection-san.main" target="1.8" />
+      <module name="xyz.fomichev.inspection-san.test" target="1.8" />
+      <module name="xyz.fomichev.inspection-sandbi.main" target="1.8" />
+      <module name="xyz.fomichev.inspection-sandbi.test" target="1.8" />
+      <module name="xyz.fomichev.inspections.main" target="1.8" />
+      <module name="xyz.fomichev.inspections.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
